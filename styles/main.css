@@ -1,0 +1,21 @@
+section {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+body {
+    font-family: Inter, sans-serif, Arial;
+    margin: 0;
+    padding-top: 150px;
+    
+    background-color: #495485;
+}
+
+footer {
+    background-color: red;
+    align-items: center;
+    justify-items: center;
+}
